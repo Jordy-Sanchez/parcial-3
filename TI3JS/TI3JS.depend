@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1738934631 source:c:\users\g406\desktop\fun. prog\parcial 2\ti3js\main.cpp
+	<iostream>
+	"C:\Users\G406\Desktop\Fun. Prog\Parcial 2\TI3JS\DECLARACIONTI3JS.h"
+	"C:\Users\G406\Desktop\Fun. Prog\Parcial 2\TI3JS\CONVERSIONTI3JS.h"
+	"C:\Users\G406\Desktop\Fun. Prog\Parcial 2\TI3JS\COMPARACIONTI3JS.h"
+	"C:\Users\G406\Desktop\Fun. Prog\Parcial 2\TI3JS\CONCATENACIONTI3JS.h"
+	"C:\Users\G406\Desktop\Fun. Prog\Parcial 2\TI3JS\LONGITUDTI3JS.h"
+	"C:\Users\G406\Desktop\Fun. Prog\Parcial 2\TI3JS\BUSCARTI3JS.h"
+	"C:\Users\G406\Desktop\Fun. Prog\Parcial 2\TI3JS\SUBCADENATI3JS.h"
+
+1738933366 c:\users\g406\desktop\fun. prog\parcial 2\ti3js\declaracionti3js.h
+	<iostream>
+
+1738931976 c:\users\g406\desktop\fun. prog\parcial 2\ti3js\declaracion2ti3js.h
+	<iostream>
+
+1738934006 c:\users\g406\desktop\fun. prog\parcial 2\ti3js\conversionti3js.h
+	<iostream>
+
+1738934497 c:\users\g406\desktop\fun. prog\parcial 2\ti3js\comparacionti3js.h
+	<iostream>
+
+1738934363 c:\users\g406\desktop\fun. prog\parcial 2\ti3js\concatenacionti3js.h
+	<iostream>
+
+1738934006 c:\users\g406\desktop\fun. prog\parcial 2\ti3js\longitudti3js.h
+	<iostream>
+
+1738934631 c:\users\g406\desktop\fun. prog\parcial 2\ti3js\buscarti3js.h
+	<iostream>
+	<algorithm>
+
+1738934652 c:\users\g406\desktop\fun. prog\parcial 2\ti3js\subcadenati3js.h
+	<iostream>
+

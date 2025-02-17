@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1738761517 source:c:\users\g406\desktop\fun. prog\parcial 2\prueba 1.3\main.cpp
+	<iostream>
+	"C:\Users\G406\Desktop\Fun. Prog\Parcial 2\prueba 1.3\declararjordy.h"
+	"C:\Users\G406\Desktop\Fun. Prog\Parcial 2\prueba 1.3\longitujordy.h"
+
+1738759369 c:\users\g406\desktop\fun. prog\parcial 2\prueba 1.3\declararjordy.h
+	<iostream>
+
+1738761529 c:\users\g406\desktop\fun. prog\parcial 2\prueba 1.3\longitujordy.h
+	<iostream>
+
